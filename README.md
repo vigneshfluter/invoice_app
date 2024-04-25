@@ -1,22 +1,14 @@
 # app_mania
-# video
-
-
-https://github.com/pranav2512/salad_mania_invoice/assets/83396279/79b46d9c-12a5-46a8-ab91-c0c52003cc7c
+## About this App :-
+With this app, users can input relevant details such as item descriptions, quantities, prices, and customer information, and the app will automatically generate an organized invoice or bill. It typically includes features like customizable templates, tax calculation, currency options, and the ability to save or send invoices digitally.
 
 
 
-1
+## PHOTOS
+![vignesh](https://github.com/vigneshfluter/invoice_app/assets/149999841/ee7e45de-906c-471f-8738-38a85fb1c647)
 
-## Getting Started
+## Videos
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/vigneshfluter/invoice_app/assets/149999841/873073ef-3a4a-4beb-8bd4-fba5d7fe1a2b
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
